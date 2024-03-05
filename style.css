@@ -1,0 +1,6 @@
+div {
+    width: 343px;
+    height: 146px;
+    background-color: yellowgreen;
+    overflow-y: auto;
+}
